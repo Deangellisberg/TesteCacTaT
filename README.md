@@ -1,43 +1,29 @@
-### Testes Automatizados com Cypress 🚀
-Bem-vindo ao meu projeto pessoal de automação de testes utilizando Cypress, um framework open source em JavaScript para aplicações web. Este projeto visa aprimorar minhas habilidades em QA e automação, com foco em testes confiáveis e integração contínua via GitHub Actions.
+# Testes automatizados com Cypress - Básico
 
-# 💡 Funcionalidades
-Configuração inicial e execução de testes automatizados.
-Interações com elementos web: cliques, digitação, seleção, etc.
-Validação de resultados esperados com assertions.
-Pipeline de integração contínua utilizando GitHub Actions.
-🚀 Como Executar o Projeto
-Clone o repositório:
+👋 Seja bem-vindo(a)!
 
-+ bash
-+ Copiar código
-+ git clone https://github.com/seu-usuario/nome-do-repositorio.git
-+ Instale as dependências:
+É muito bom tê-lo(a) aqui. Tenho certeza que você vai adorar este curso. ❤️
 
-+ bash
-+ Copiar código
-+ npm install
-+ Execute os testes no modo interativo:
+## O que você vai aprender
 
-+ bash
-+ Copiar código
-+ npm run cy:open
-+ Execute os testes no modo headless:
+Durante o curso de testes automatizados com Cypress (básico), você vai aprender:
 
-+ bash
-+ Copiar código
-+ npm run cy:run
+- Como configurar um projeto Cypress do zero
+- Como visitar páginas locais e remotas
+- Como lidar com os elementos mais comuns encontrados em aplicações web
+- Como testar _upload_ de arquivos
+- Como realizar as mais diversas verificações de resultados esperados
+- Como criar comandos customizados
+- Como lidar com links que abrem em outra aba do navegador
+- Como rodar testes simulando as dimensões de um dispositivo móvel
+- Como resolver os mesmos problemas de diferentes formas, conhecendo a [API do Cypress](https://docs.cypress.io/api/table-of-contents)
+- Como executar os testes em um _pipeline_ de integração contínua sempre que mudanças ocorrerem no código da aplicação (ou dos testes)
+- Como criar uma documentação mínima para seu projeto de testes automatizados
 
-## 🔧 Requisitos
-Node.js v16.13.2 ou superior
-npm v8.3.2 ou superior
-Git
-VS Code ou outra IDE
-Conhecimentos básicos em HTML, CSS e JavaScript
-## 👥 Público-Alvo
-Ideal para QAs, desenvolvedores(as), analistas de teste e qualquer pessoa interessada em automação de testes web.
+## Vamos começar?
 
-## 📚 Tecnologias Utilizadas
-Cypress
-JavaScript (ES6)
-GitHub Actions
+Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
+
+___
+
+Este é mais um curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
